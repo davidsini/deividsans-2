@@ -4,13 +4,13 @@
           class="pt-[170px] pb-[90px] md:py-[90px] md:pb-[20px] overflow-hidden relative -z-10"
         >
           <div class="wraper">
-            <div class="grid grid-cols-4 md:grid-cols-2 sm:grid-cols-1 gap-3" style="display:flex">
+            <div class="flex items-center justify-center">
               <div
-                class="w-[420px] xl:w-[355px] lg:w-[297px] pr-[75px] md:mb-[40px] lg:pr-0 relative text-left after:absolute after:content[''] after:bg-[#ffffff0d] after:w-[1px] after:h-full after:right-[30px] after:top-0 after:lg:hidden"
+                class="w-[420px] xl:w-[355px] lg:w-[297px] pr-[75px] md:mb-[40px] lg:pr-0 relative text-center after:absolute after:content[''] after:bg-[#ffffff0d] after:w-[1px] after:h-full after:right-[30px] after:top-0 after:lg:hidden"
               >
                 <div class="mb-7">
                   <a
-                    class="text-[45px] font-bold flex items-center text-white"
+                    class="text-[45px] font-bold flex items-center justify-center text-white"
                     href="index.html"
                   >
                     <img
@@ -23,7 +23,7 @@
                 <p class="text-white text-[16px] mb-[10px]">
                   Let's connect and starting creating together!
                 </p>
-                <ul class="overflow-hidden pt-[15px]">
+                <ul class="flex justify-center overflow-hidden pt-[15px]">
                    <li class="text-white float-left group ml-[15px]">
                     <a
                       class="text-white transition-all group-hover:text-[#FFE600]"

@@ -41,7 +41,7 @@
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <!-- <li>
                       <a href="#">Video Editing</a>
                       <ul class="dl-submenu">
                         <li>
@@ -53,7 +53,7 @@
                           <a href="./partials/portfolio/portfolio-homeland.php">Homeland</a>
                         </li>
                       </ul>
-                    </li>
+                    </li> -->
                   </ul>
                 </li>
                 <!-- <li>
