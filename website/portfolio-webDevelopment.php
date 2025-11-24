@@ -63,7 +63,7 @@
       </section>
       <!-- end elito-page-titlen -->
 
-       <?php include 'recentWork_WebDevelopment.php'; ?>
+<?php include 'recentWork_WebDevelopment.php'; ?>
 
 <?php include 'partners.php'; ?>
 

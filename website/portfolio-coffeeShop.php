@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="author" content="wpOceans" />
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png" />
-    <title>Dēivid Sans - Portfolio - Web Project "Homeland"</title>
+    <title>Dēivid Sans - Portfolio - Web Project "Coffee Shop"</title>
 
     <link href="./assets/css/themify-icons.css" rel="stylesheet" />
     <link href="./assets/css/font-awesome.min.css" rel="stylesheet" />
@@ -34,7 +34,7 @@
                     <div class="loader-line-mask">
                         <div class="loader-line"></div>
                     </div>
-                    <img src="assets/images/preloader.png" alt="Preloader animation image" />
+                    <img src="assets/images/preloader.png" alt="" />
                 </div>
             </div>
         </div>
@@ -44,9 +44,9 @@
                 <div class="grid grid-rows-1 grid-cols-1 gap-4">
                     <div class="text-center">
                         <h2 class="text-[60px] text-white leading-[60px] mt-[-10px] mb-[20px] font-black sm:text-[30px] sm:leading-[35px] sm:mb-[10px]">
-                            Web Project - Homeland
+                            Web Project - Coffee Shop
                         </h2>
-                    </div>
+                        </div>
                 </div>
             </div>
         </section>
@@ -62,11 +62,10 @@
                                         Project Overview
                                     </h3>
                                     <p class="text-[16px] leading-[26px] font-normal text-[#D8D8D8] mb-[20px]">
-                                        This website is an online gallery showcasing a collection of photography or digital art. The aim of the project was to demonstrate the ability to implement a modern, content-heavy website using HTML and CSS techniques (like Flexbox, Grid, and Media Queries) to create a
-                                        <strong> adaptive and accessible user experience </strong>across various devices.
-                                        <br /><br />
+                                        Developed a modern, responsive single-page website for 'Triple Espresso,' a specialty coffee shop, focusing on a clean aesthetic and functional interaction. The implementation included robust navigational links for seamless user flow and the creation of custom-styled user input forms (e.g., for contact inquiries and table reservations). Furthermore, external services, such as a table reservation system, were integrated efficiently using iframes to maintain a unified user experience while leveraging third-party functionality.
+                                        <br/><br/>
                                         <strong>GitHub repository: </strong>
-                                        <a href="https://github.com/davidsini/web_project_homeland">https://github.com/davidsini/web_project_homeland</a>
+                                        <a href="https://github.com/davidsini/web_project_homeland">https://davidsini.github.io/web_project_coffeeshop/</a>
                                     </p>
                                 </div>
                                 <div class="col-span-5 md:col-span-12">
@@ -85,15 +84,18 @@
                                                 Duration :<span class="text-[#D8D8D8] font-normal">2 weeks</span>
                                             </li>
                                             <li class="flex py-[10px] text-[16px] text-white font-semibold relative justify-between">
-                                                Completion :<span class="text-[#D8D8D8] font-normal">August 2025</span>
+                                                Completion :<span class="text-[#D8D8D8] font-normal">June 2025</span>
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                             <div class="wpo-project-single-main-img owl-carousel mt-2">
-                                <img class="w-full" src="assets/images/project-single/homeland/homeland-ezgif.com-optimize.gif" alt="Animated GIF showcasing the Homeland website's responsive design" />
-                                <img class="w-full" src="assets/images/project-single/homeland/homelandBig_Opt.png" alt="Full-screen image of the Homeland website" />
+                                <img class="w-full" src="assets/images/project-single/coffeeShop/coffeeShop_Recording.gif" alt="Animated GIF of the Coffee Shop Web Project interface" />
+                                <img class="w-full" src="assets/images/project-single/coffeeShop/coffee-1.webp" alt="Full-screen image of the Coffee Shop Web Project" />
+                                <img class="w-full" src="assets/images/project-single/coffeeShop/coffee-2.webp" alt="Full-screen image of the Coffee Shop Web Project" />
+                                <img class="w-full" src="assets/images/project-single/coffeeShop/coffee-3.webp" alt="Full-screen image of the Coffee Shop Web Project" />
+
                             </div>
                         </div>
 
@@ -105,30 +107,31 @@
                                     </h3>
                                     <ul>
                                         <li class="py-[10px] text-white pl-[35px] relative before:absolute before:left-0 before:top-1/2 before:transform before:w-[25px] before:h-[25px] before:leading-[25px] before:rounded-[50%] before:text-center before:text-[14px] before:text-[#59C378] before:bg-[#59c3781a] before:-translate-y-1/2 before:font-['themify'] before:content-['\e64c']">
-                                            <strong> Responsive Layout:</strong> The design adapts and reorders seamlessly to any screen size (Desktop to Mobile) using Media Queries.
+                                            <strong> Modern, Minimalist Design:</strong> Implemented a clean, asymmetrical layout utilizing a high-contrast color palette (black, white, and vibrant blue) for a distinct brand identity.
                                         </li>
                                         <li class="py-[10px] text-white pl-[35px] relative before:absolute before:left-0 before:top-1/2 before:transform before:w-[25px] before:h-[25px] before:leading-[25px] before:rounded-[50%] before:text-center before:text-[14px] before:text-[#59C378] before:bg-[#59c3781a] before:-translate-y-1/2 before:font-['themify'] before:content-['\e64c']">
-                                            <strong>Modular Content:</strong> The structure allows for easy scaling and addition of new art blocks (image + description).
+                                            <strong>Custom Isometric Illustration:</strong> Integrated a large, detailed, and responsive isometric line-art illustration of the café's interior, serving as the main visual anchor of the landing page.
                                         </li>
                                         <li class="py-[10px] text-white pl-[35px] relative before:absolute before:left-0 before:top-1/2 before:transform before:w-[25px] before:h-[25px] before:leading-[25px] before:rounded-[50%] before:text-center before:text-[14px] before:text-[#59C378] before:bg-[#59c3781a] before:-translate-y-1/2 before:font-['themify'] before:content-['\e64c']">
-                                            <strong>High-Contrast UI:</strong> Uses a dark theme and light text to maximize readability and visual impact.
+                                            <strong>Clear Information Hierarchy:</strong> Prominently displayed key business information, including operating hours and a clear value proposition, using a strong typographic hierarchy.
                                         </li>
                                         <li class="py-[10px] text-white pl-[35px] relative before:absolute before:left-0 before:top-1/2 before:transform before:w-[25px] before:h-[25px] before:leading-[25px] before:rounded-[50%] before:text-center before:text-[14px] before:text-[#59C378] before:bg-[#59c3781a] before:-translate-y-1/2 before:font-['themify'] before:content-['\e64c']">
-                                            <strong>Conversion Focus:</strong> Integrates a prominent call-to-action (Buy NFT) in every gallery section.
+                                            <strong>CResponsive Layout:</strong> The design adapts effectively to different screen sizes, ensuring accessibility and a positive viewing experience across mobile and desktop devices.
                                         </li>
                                     </ul>
                                 </div>
+
                             </div>
                         </div>
-                    </div>
+
+                        </div>
                     <div class="col-span-1"></div>
                 </div>
             </div>
         </div>
         <?php include 'partners.php'; ?>
         <?php include 'footer.php'; ?>
-
-    </div>
+        </div>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/modernizr.custom.js"></script>
     <script src="assets/js/jquery.dlmenu.js"></script>
