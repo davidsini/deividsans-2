@@ -188,13 +188,13 @@
                 >
                   <li>
                     <a
-                      href="#"
+                      href="portfolio-webDevelopment.php"
                       class="text-[16px] lg:text-[14px] inline-block py-[5px] capitalize text-[#002642] group relative overflow-hidden font-bold transition-all after:absolute after:left-0 after:bottom-[5px] after:w-0 after:h-[1px] after:content after:bg-[#59C378] after:transition-all hover:after:w-full"
                       >Web Development
                     </a>
                   </li>
 
-                  <li>
+                  <!-- <li>
                     <a
                       href="portfolio-masonary.html"
                       class="text-[16px] lg:text-[14px] inline-block py-[5px] capitalize text-[#202020] group relative overflow-hidden font-medium transition-all after:absolute after:left-0 after:bottom-[5px] after:w-0 after:h-[1px] after:content after:bg-[#59C378] after:transition-all hover:after:w-full"
@@ -207,16 +207,10 @@
                       href="portfolio.html"
                       class="text-[16px] lg:text-[14px] inline-block py-[5px] capitalize text-[#202020] group relative overflow-hidden font-medium transition-all after:absolute after:left-0 after:bottom-[5px] after:w-0 after:h-[1px] after:content after:bg-[#59C378] after:transition-all hover:after:w-full"
                       >Motion Design</a
-                    >
+                    > -->
                   </li>
 
-                  <li>
-                    <a
-                      href="portfolio-single.html"
-                      class="text-[16px] lg:text-[14px] inline-block py-[5px] capitalize text-[#202020] group relative overflow-hidden font-medium transition-all after:absolute after:left-0 after:bottom-[5px] after:w-0 after:h-[1px] after:content after:bg-[#59C378] after:transition-all hover:after:w-full"
-                      >Portfolio Single</a
-                    >
-                  </li>
+
                 </ul>
               </li>
               <!-- <li class="relative inline-block group">

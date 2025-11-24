@@ -4,7 +4,7 @@
           class="pt-[170px] pb-[90px] md:py-[90px] md:pb-[20px] overflow-hidden relative -z-10"
         >
           <div class="wraper">
-            <div class="grid grid-cols-4 md:grid-cols-2 sm:grid-cols-1 gap-3">
+            <div class="grid grid-cols-4 md:grid-cols-2 sm:grid-cols-1 gap-3" style="display:flex">
               <div
                 class="w-[420px] xl:w-[355px] lg:w-[297px] pr-[75px] md:mb-[40px] lg:pr-0 relative text-left after:absolute after:content[''] after:bg-[#ffffff0d] after:w-[1px] after:h-full after:right-[30px] after:top-0 after:lg:hidden"
               >
@@ -21,49 +21,41 @@
                   /></a>
                 </div>
                 <p class="text-white text-[16px] mb-[10px]">
-                  Welcome and open yourself to your truest love this year with
-                  us! With the Release Process
+                  Let's connect and starting creating together!
                 </p>
                 <ul class="overflow-hidden pt-[15px]">
-                  <li class="text-white float-left group">
+                   <li class="text-white float-left group ml-[15px]">
                     <a
                       class="text-white transition-all group-hover:text-[#FFE600]"
-                      href="#"
-                      ><i class="ti-facebook"></i
-                    ></a>
-                  </li>
-                  <li class="text-white float-left group ml-[15px]">
-                    <a
-                      class="text-white transition-all group-hover:text-[#FFE600]"
-                      href="#"
-                      ><i class="ti-twitter-alt"></i
-                    ></a>
-                  </li>
-                  <li class="text-white float-left group ml-[15px]">
-                    <a
-                      class="text-white transition-all group-hover:text-[#FFE600]"
-                      href="#"
+                      href="www.linkedin.com/in/deivid-sans"
                       ><i class="ti-linkedin"></i
                     ></a>
                   </li>
                   <li class="text-white float-left group ml-[15px]">
                     <a
                       class="text-white transition-all group-hover:text-[#FFE600]"
-                      href="#"
-                      ><i class="ti-pinterest"></i
+                      href="https://www.youtube.com/@deividsans_motion"
+                      ><i class="ti-youtube"></i
                     ></a>
                   </li>
                   <li class="text-white float-left group ml-[15px]">
                     <a
                       class="text-white transition-all group-hover:text-[#FFE600]"
-                      href="#"
-                      ><i class="ti-vimeo-alt"></i
+                      href="https://www.instagram.com/hey.its.deivid/"
+                      ><i class="ti-instagram"></i
+                    ></a>
+                  </li>
+                  <li class="text-white float-left group ml-[15px]">
+                    <a
+                      class="text-white transition-all group-hover:text-[#FFE600]"
+                      href="mailto:deividsans@icloud.com"
+                      ><i class="ti-email"></i
                     ></a>
                   </li>
                 </ul>
               </div>
 
-              <div
+              <!-- <div
                 class="w-[200px] md:w-full ml-auto md:mb-[40px] lg:pr-0 relative text-left"
               >
                 <div class="mb-7">
@@ -144,35 +136,7 @@
                     >
                   </li>
                 </ul>
-              </div>
-              <div class="md:mb-[40px] lg:pr-0 relative text-left">
-                <div class="mb-7">
-                  <h3
-                    class="text-[24px] font-bold font-base-font text-white capitalize"
-                  >
-                    Newsletter
-                  </h3>
-                </div>
-                <p class="text-white text-[16px] mb-[10px]">
-                  Must explain to you how all this mistaken idea pleasure born
-                  and give you a complete account.
-                </p>
-                <form class="mt-[25px] relative">
-                  <div class="input-1">
-                    <input
-                      type="email"
-                      class="focus:outline-0 w-full bg-[#232925] h-[50px] text-white py-[6px] px-[15px] border border-[#222623]"
-                      placeholder="Email Address *"
-                      required
-                    />
-                  </div>
-                  <div class="absolute right-[20px] top-[50%] -translate-y-1/2">
-                    <button class="text-white text-[20px]" type="submit">
-                      <i class="ti-email"></i>
-                    </button>
-                  </div>
-                </form>
-              </div>
+              </div> -->
             </div>
           </div>
           <div class="absolute top-[-140%] right-[0] -z-10">

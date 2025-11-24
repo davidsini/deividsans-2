@@ -1,0 +1,51 @@
+{
+
+  // Módulos (plugins)
+  // NECESARIO para que Prettier formatee archivos PHP.
+  "plugins": ["@prettier/plugin-php"],
+
+  // Configuración General
+
+  // Ancho máximo de línea (útil para legibilidad, 100 es común en proyectos con Tailwind).
+  "printWidth": 100,
+
+  // Número de espacios por nivel de indentación.
+  "tabWidth": 2,
+
+  // Usar tabs en lugar de espacios. (Se recomienda 'false' para usar espacios)
+  "useTabs": false,
+
+  // Usar comillas simples para strings en lugar de comillas dobles (donde sea posible).
+  "singleQuote": true,
+
+  // Imprime punto y coma al final de las declaraciones.
+  "semi": true,
+
+  // Añade comas al final de objetos y arrays (útil para diffs en Git).
+  "trailingComma": "all",
+
+  // Espacios alrededor de los corchetes en las declaraciones de objetos.
+  "bracketSpacing": true,
+
+  // Si la única flecha de una función tiene un solo argumento, omite los paréntesis.
+  "arrowParens": "always",
+
+  // Configuración específica para PHP (proporcionada por @prettier/plugin-php)
+
+  // Permite especificar la versión de PHP, lo cual ayuda al formateador.
+  // Si no se especifica, se intentará autodetectar o usar la última versión estable.
+  // Si usas PHP 8.0+, déjalo como "auto".
+  "phpVersion": "auto",
+
+  // Estilo de llaves para bloques de código (clases, funciones, métodos).
+  // "per-cs" (nueva línea) es similar a PSR-12/PER.
+  // "1tbs" (misma línea) es un estilo popular en JavaScript (y similar a K&R).
+  "braceStyle": "per-cs"
+
+  "plugins": [
+    "@prettier/plugin-php"
+  ],
+  "tabWidth": 4,
+  "printWidth": 80,
+  "useTabs": false
+}
