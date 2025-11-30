@@ -12,6 +12,11 @@
                         Let's connect and starting creating together!
                     </p>
                     <ul class="flex justify-center overflow-hidden pt-[15px]">
+                       <li class="text-white float-left group ml-[15px]">
+                            <a class="text-white transition-all group-hover:text-[#FFE600]" href="https://github.com/davidsini">
+                                <i class="ti-github"></i>
+                            </a>
+                        </li>
                         <li class="text-white float-left group ml-[15px]">
                             <a class="text-white transition-all group-hover:text-[#FFE600]" href="www.linkedin.com/in/deivid-sans">
                                 <i class="ti-linkedin"></i>

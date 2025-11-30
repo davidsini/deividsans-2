@@ -53,7 +53,7 @@
                 <li class="relative inline-block group">
                     <a
                         href="portfolio-webDevelopment.php"
-                        class="relative group text-[16px] lg:text-[14px] py-[35px] xl:py-[30px] px-[20px] xl:px-[6px] text-white block capitalize font-base-font font-medium before:absolute before:left-0 before:bottom-0 before:w-full before:h-[4px] before:bg-[#59C378] before:content before:opacity-1 before:visible before:transition-all before:rounded-[3px] hover:before:opacity-100 hover:before:visible"
+                        class="relative group text-[16px] lg:text-[14px] py-[35px] xl:py-[30px] px-[20px] xl:px-[6px] text-white block capitalize font-base-font font-medium before:absolute before:left-0 before:bottom-0 before:w-full before:h-[4px] before:bg-[#59C378] before:content before:opacity-0 before:invisible before:transition-all before:rounded-[3px] hover:before:opacity-100 hover:before:visible"
                         >Portfolio</a
                     >
                     <ul
@@ -69,6 +69,14 @@
                     </ul>
                 </li>
 
+                 <li class="relative inline-block">
+                    <a
+                        href="demoReel.php"
+                        class="relative group text-[16px] lg:text-[14px] py-[35px] xl:py-[30px] px-[20px] xl:px-[6px] text-white block capitalize font-base-font font-medium before:absolute before:left-0 before:bottom-0 before:w-full before:h-[4px] before:bg-[#59C378] before:content before:opacity-0 before:invisible before:transition-all before:rounded-[3px] hover:before:opacity-100 hover:before:visible"
+                        >Demo Reel</a
+                    >
+                </li>
+
                 <li class="relative inline-block">
                     <a
                         href="contact.php"
@@ -76,6 +84,8 @@
                         >Contact</a
                     >
                 </li>
+
+
             </ul>
             <a
                 class="theme-btn col:w-50px"
