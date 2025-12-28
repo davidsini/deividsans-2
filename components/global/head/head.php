@@ -24,6 +24,7 @@
     <link href="assets/css/odometer-theme-default.css" rel="stylesheet" />
     <link href="assets/css/global.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" />
+    <link href="components/title/title.css" rel="stylesheet" />
 
     <base href="/deividsans-2/">
     <!-- buscará archivos a partir de esta ruta -->
