@@ -1,4 +1,4 @@
-<head>
+
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -8,7 +8,7 @@
       type="image/png"
       href="assets/images/favicon.png"
     />
-    <title> Dēivid Sans</title>
+
     <link href="assets/css/themify-icons.css" rel="stylesheet" />
     <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
     <link href="assets/css/flaticon.css" rel="stylesheet" />
@@ -24,4 +24,7 @@
     <link href="assets/css/odometer-theme-default.css" rel="stylesheet" />
     <link href="assets/css/global.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" />
-  </head>
+
+    <base href="/deividsans-2/">
+    <!-- buscará archivos a partir de esta ruta -->
+

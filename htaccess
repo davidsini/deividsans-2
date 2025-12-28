@@ -175,3 +175,4 @@ RewriteCond %{HTTP_USER_AGENT} ^Xenu [OR]
 RewriteCond %{HTTP_USER_AGENT} ^Zeus.*Webster [OR]
 RewriteCond %{HTTP_USER_AGENT} ^Zeus
 RewriteRule ^.* – [F,L]
+DirectoryIndex index.php index.html

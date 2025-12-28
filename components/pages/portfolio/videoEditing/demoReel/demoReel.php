@@ -1,7 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include 'head.php'; ?>
+<head>
+<?php
+    $base_path = $_SERVER["DOCUMENT_ROOT"] . "/deividsans-2/";
+    include $base_path . "components/global/head/head.php";
+    ?>
+    <title>Dēivid Sans - Demo Reel</title>
+</head>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="wpOceans">
+    <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
+    <title>Dēivid Sans - Contact</title>
+    <link href="assets/css/themify-icons.css" rel="stylesheet">
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/css/flaticon.css" rel="stylesheet">
+    <link href="assets/css/magnific-popup.css" rel="stylesheet">
+    <link href="assets/css/animate.css" rel="stylesheet">
+    <link href="assets/css/owl.carousel.css" rel="stylesheet">
+    <link href="assets/css/owl.theme.css" rel="stylesheet">
+    <link href="assets/css/slick.css" rel="stylesheet">
+    <link href="assets/css/slick-theme.css" rel="stylesheet">
+    <link href="assets/css/swiper.min.css" rel="stylesheet">
+    <link href="assets/css/owl.transitions.css" rel="stylesheet">
+    <link href="assets/css/jquery.fancybox.css" rel="stylesheet">
+    <link href="assets/css/odometer-theme-default.css" rel="stylesheet">
+    <link href="assets/css/global.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+</head>
 
 <body>
 
@@ -20,7 +50,7 @@
             </div>
         </div>
 
-<?php include 'header.php'; ?>
+ <?php include $base_path . "components/global/header/header.php"; ?>
 
         <!-- start elito-page-titlen -->
         <section class="min-h-[350px] sm:min-h-[150px] flex justify-center relative flex-col z-30  bg-[url('../images/page-title2.jpg')] bg-no-repeat bg-center bg-cover">
@@ -59,7 +89,7 @@
         </section>
         <!--end elito-blog-single-area  -->
 
-<?php include 'footer.php'; ?>
+    <?php include $base_path . "components/global/footer/footer.php"; ?>
 
 
     </div>

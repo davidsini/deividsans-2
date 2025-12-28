@@ -5,7 +5,7 @@
                 <div class="w-[420px] xl:w-[355px] lg:w-[297px] md:mb-[40px] lg:pr-0 relative text-center after:absolute after:content[''] after:bg-[#ffffff0d] after:w-[1px] after:h-full after:right-[30px] after:top-0 after:lg:hidden">
                     <div class="mb-7">
                         <a class="text-[45px] font-bold flex items-center justify-center text-white" href="index.html">
-                            <img class="mr-[10px]" style="max-width: 250px" src="assets/images/logo_white_50.png" alt="logo" />
+                            <img class="mr-[10px]" style="max-width: 250px" src="/deividsans-2/assets/images/logo_white_50.png" alt="logo" />
                         </a>
                     </div>
                     <p class="text-white text-[16px] mb-[10px]">
@@ -66,10 +66,10 @@
         </div>
     </div>
 </footer>
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/modernizr.custom.js"></script>
-<script src="assets/js/jquery.dlmenu.js"></script>
-<script src="assets/js/jquery-plugin-collection.js"></script>
-<script src="assets/js/moving-animation.js"></script>
-<script src="assets/js/tw-elements.min.js"></script>
-<script src="assets/js/script.js"></script>
+<script src="/deividsans-2/assets/js/jquery.min.js"></script>
+<script src="/deividsans-2/assets/js/modernizr.custom.js"></script>
+<script src="/deividsans-2/assets/js/jquery.dlmenu.js"></script>
+<script src="/deividsans-2/assets/js/jquery-plugin-collection.js"></script>
+<script src="/deividsans-2/assets/js/moving-animation.js"></script>
+<script src="/deividsans-2/assets/js/tw-elements.min.js"></script>
+<script src="/deividsans-2/assets/js/script.js"></script>

@@ -44,7 +44,7 @@
         </div>
       </div>
 
-<?php include 'header.php'; ?>
+<?php include 'components/global/header/header.php'; ?>
       <!-- start elito-page-titlen -->
       <section
         class="min-h-[350px] sm:min-h-[250px] relative flex justify-center flex-col z-30 bg-[url('../images/page-title2.jpg')] bg-no-repeat bg-center bg-cover"
